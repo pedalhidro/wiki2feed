@@ -1,0 +1,5 @@
+# Saídas geradas pelo simulate_feed.py
+preview.html
+*.xml
+__pycache__/
+*.pyc
